@@ -96,14 +96,21 @@ Goals: To divide a group of players into teams without any biases.
 
 ![](image1.jpg)
 
+**Summarize feedback you got here.**
+
+Most people liked all ideas, but CrispSense was the most attractive as it is the most useful and applicable to everyone. Plant enthusiasts showed excitement about our idea, but they said it would be better if it could detect this on the plant itself instead of the soil.
+
 ## Part B. Act out the Interaction
 
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
+For the CrispSense demo, it looked better on paper, since if we put up a screen for every fruit item in the fridge, it might be a bit huge.
+
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
+It would be a good idea to have TeamWiz be a wearable device (similar to the LED wristbands in concerts) so teams can tell apart their teammates from opposite team.
 
 ## Part C. Prototype the device
 
@@ -117,16 +124,20 @@ If you run into technical issues with this tool, you can also use a light switch
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
 
+Tinkerbelle does what its made for. It would be even better if we had the ability to program a sequence of colors.
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
+https://youtu.be/ASheoEyk49Y
+
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
 
+https://youtu.be/ASheoEyk49Y
 
 ## Part E. Costume the device
 
@@ -142,6 +153,7 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
+We wanted the device to look 'small' and 'self-contained'. We wouldn't want a garden to have too many visible digital elements shadwing the greenery. While the size of the phone is restricting, the two white covers make the device look capuslar.
 
 ## Part F. Record
 
