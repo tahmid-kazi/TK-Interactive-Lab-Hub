@@ -1,6 +1,6 @@
 
 
-# Lab 1a: Staging Interaction
+# Staging Interaction (Lab 1a)
 
 ** Team Members: Tahmid Kazi, Siddharth Kothari, Omar Mohamed, Yifan Zhou **
 
@@ -169,7 +169,7 @@ Be generous in acknowledging their contributions! And also recognizing any other
 
 
 
-# Staging Interaction, Part 2 
+# Staging Interaction, Part 2 (Lab 1b)
 
 This describes the second week's work for this lab activity.
 
