@@ -61,7 +61,7 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 
 For our lab submission, we created 3 scenarios to meet the 7 storyboard criterion:
 
-1) CrispSense: The food freshness label
+Scenario 1) CrispSense: The food freshness label
 Setting: The user opens a refrigerator in a kitchen to see what ingredients they have for cooking their next meal.
 
 Players: The refrigerator and the user
