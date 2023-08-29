@@ -62,6 +62,7 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 For our lab submission, we created 3 scenarios to meet the 7 storyboard criterion:
 
 Scenario 1) CrispSense: The food freshness label
+
 Setting: The user opens a refrigerator in a kitchen to see what ingredients they have for cooking their next meal.
 
 Players: The refrigerator and the user
@@ -71,6 +72,7 @@ Activity: The user opens the refrigerator and immediately sees visual labels tha
 Goals: To visually tell apart food items based on their freshness to allow user to make conscious decisions thereby reducing food wastage.
 
 Scenario 2) LeafSpeak: The plant’s voice
+
 Setting: A plant and a caretaker in a nursery on a bright sunny morning.
 
 Players: The plant and its caretaker
