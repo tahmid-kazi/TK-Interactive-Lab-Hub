@@ -1,6 +1,6 @@
 
 
-# Staging Interaction
+# Lab 1a: Staging Interaction
 
 ** Team Members: Tahmid Kazi, Siddharth Kothari, Omar Mohamed, Yifan Zhou **
 
