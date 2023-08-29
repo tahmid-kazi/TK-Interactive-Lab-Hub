@@ -143,7 +143,8 @@ Think about the setting of the device: is the environment a place where the devi
 
 [![LeafSpeak Demo](https://img.youtube.com/vi/ASheoEyk49Y/0.jpg)](https://www.youtube.com/watch?v=ASheoEyk49Y)
 
-https://www.youtube.com/watch?v=ASheoEyk49Y
+https://youtu.be/ASheoEyk49Y
+
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
