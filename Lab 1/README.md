@@ -59,27 +59,36 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 
 ## Part A. Plan 
 
-To stage an interaction with your interactive device, think about:
+For our lab submission, we created 3 scenarios to meet the 7 storyboard criterion:
 
-_Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
+1) CrispSense: The food freshness label
+Setting: The user opens a refrigerator in a kitchen to see what ingredients they have for cooking their next meal.
 
-_Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
+Players: The refrigerator and the user
 
-_Activity:_ What is happening between the actors?
+Activity: The user opens the refrigerator and immediately sees visual labels that make it easy to tell apart fresh food from stale food, and those foods about to expire.The label for the items that have expired turn ‘red’ while those about to expire turn orange, and the fresh food is labeled green.
 
-_Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening the fridge). 
+Goals: To visually tell apart food items based on their freshness to allow user to make conscious decisions thereby reducing food wastage.
 
-The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
+Scenario 2) LeafSpeak: The plant’s voice
+Setting: A plant and a caretaker in a nursery on a bright sunny morning.
 
-\*\***Describe your setting, players, activity and goals here.**\*\*
+Players: The plant and its caretaker
 
-Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
+Activity: The LeafSpeak device, positioned in the soil, shifts its color to blue as soon as it identifies the plant's thirst for water. In a plantation or nursery, numerous plants may demand varying amounts of water. These devices individually shift to a 'blue' hue when the particular plant requires hydration, transitioning to green once the water supply suffices, and to black if overwatering occurs. Furthermore, an orange hue emerges when a plant or tree is ripe for harvesting, while a yellow glow signifies the need for increased sunlight.
 
-\*\***Include pictures of your storyboards here**\*\*
+Goals: To notify the plant’s caretaker about its water/sunlight needs.
 
-Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
+Scenario 3) TeamWiz: Your digital assistant to make fair teams
 
-\*\***Summarize feedback you got here.**\*\*
+Setting: A table with TeamWiz devices outside a Soccer field with players waiting in a queue to enter the field.
+
+Players: (For the sake of this example, it will be 8 players to correspond with the 8 phones)
+
+Activity: A group of players queue up to pick up their TeamWiz devices. As soon as a TeamWiz device is picked up it turns red or blue indicating which team (red or blue) the user belongs to.
+Additionally, should a player or two have to leave the game midway, all TeamWiz devices would blink-change their colors and re-distribute the team for fair play.
+
+Goals: To divide a group of players into teams without any biases.
 
 
 ## Part B. Act out the Interaction
