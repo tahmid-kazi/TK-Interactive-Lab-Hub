@@ -90,6 +90,9 @@ Additionally, should a player or two have to leave the game midway, all TeamWiz 
 
 Goals: To divide a group of players into teams without any biases.
 
+**Include pictures of your storyboards here**
+
+![](image1.jpg)
 
 ## Part B. Act out the Interaction
 
