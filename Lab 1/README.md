@@ -230,7 +230,7 @@ If there are lots of plants around, we need a better way to analyzd multiple pla
 <b>Goals:</b> The goal of this interaction is to make the user aware of its surrounding dangers in an intuitive, easy to understand way. While providing clear guidance to safety.
 
 ### <u>4. Cat language translator </u>
-![](storyboard4.jpg)
+![storyboard4](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/10e17db5-6992-42d5-ada4-55b1738dfed3)
 
 <b>Setting:</b>The interaction is happening in a person’s home. 
 
