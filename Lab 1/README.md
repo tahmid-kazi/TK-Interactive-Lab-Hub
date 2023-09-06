@@ -180,6 +180,10 @@ You will be assigned three partners from another group. Go to their github pages
 
 \*\***Summarize feedback from your partners here.**\*\*
 
+"Really unique idea with a cool usage of the phone as the "sensor" I think that the costuming could have been a bit better. I think that the usage of light is very clear, but could be a little more creative." - Zack Pakin, Neelraj Patel
+
+"I like the idea of a fridge food indicator. It is useful to know whether the food is expired or not. Also, the plant status indicator is cool, and the video is awesome. A little advice is maybe this device can try to add more than 3 statuses." - Julia Lin
+
 ## Make it your own
 
 Do last week’s assignment again, but this time: 
@@ -188,3 +192,15 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+
+![](storyboard1.PNG)
+![](storyboard2.PNG)
+![](storyboard3.PNG)
+![](storyboard4.jpg)
+![](storyboard5.jpg)
+![](storyboard6.PNG)
+![](storyboard7.PNG)
+
+
+
+
