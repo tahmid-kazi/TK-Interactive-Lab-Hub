@@ -66,6 +66,13 @@ while True:
 
     #TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py 
 
+    # Get the current time.
+    current_time = time.strftime('%H:%M:%S')
+
+    # Draw the time on the image.
+    draw.text((40, 40), current_time, fill=(255, 255, 255), font=font)
+
+
     # Display image.
     disp.image(image, rotation)
     time.sleep(1)
