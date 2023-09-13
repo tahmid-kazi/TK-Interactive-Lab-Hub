@@ -197,9 +197,12 @@ Can you make time interactive? You can look in `screen_test.py` for examples for
 
 Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www.billverplank.com/IxDSketchBook.pdf)!
 
+The Verplank Diagram
 ![Verplank](verplank.jpg)
 
 **We strongly discourage and will reject the results of literal digital or analog clock display.**
+The Clock Idea
+![clock_idea](clock_idea.jpg)
 
 
 \*\*\***A copy of your code should be in your Lab 2 Github repo.**\*\*\*
