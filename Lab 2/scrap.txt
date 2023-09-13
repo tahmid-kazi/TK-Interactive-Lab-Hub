@@ -1,0 +1,88 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# -----------------------------------------------------------------------------
+    display_image = image1.copy()
+    # Homer frame:
+    try:
+        homer_frame = next(homer_gif_iter)
+        homer_frame = homer_frame.convert("RGBA").resize((150, 100))
+    except StopIteration:
+        homer_frame_iter = ImageSequence.Iterator(homer_gif)
+        homer_frame = next(homer_gif_iter)
+        homer_frame = homer_frame.convert("RGBA").resize((150, 100)) 
+    
+    display_image.paste(homer_frame, (120, 40), homer_frame)
+    
+    
+    # display_image.text((0, 0), cur_time, font=fontB, fill="#f41f1f")
+    draw_on_image = ImageDraw.Draw(display_image)
+    # draw_on_image.text((current_time_x, current_time_y), current_time, font=font2, fill="#f41f1f")  # Default color
+    draw_on_image.text((55, 10), current_time, font=font, fill="#f41f1f")  # Default color
+    
+    # -----------------------------------------------------------------------------
+
+
+
+
+
+
+# Gifs
+pika_gif = Image.open("images/pikachu2.gif")
+pika_gif_iter = ImageSequence.Iterator(pika_gif)
+
+# Inital frame
+pika_frame = pika_gif_iter
+
+
+# -----------------------------------------------------------------------------
+        display_image = pika.copy()
+        # Pika frame:
+        try:
+            pika_frame = next(pika_gif_iter)
+            pika_frame = pika_frame.convert("RGBA").resize((150, 100))
+        except StopIteration:
+            pika_frame_iter = ImageSequence.Iterator(pika_gif)
+            pika_frame = next(pika_gif_iter)
+            pika_frame = pika_frame.convert("RGBA").resize((150, 100)) 
+    
+        display_image.paste(pika_frame, (120, 40), pika_frame)
+        # display_image.text((0, 0), cur_time, font=fontB, fill="#f41f1f")
+        draw_on_image = ImageDraw.Draw(display_image)
+        # -----------------------------------------------------------------------------
