@@ -185,7 +185,7 @@ Option 3. A nowadays often preferred method is to use Microsoft [VS code to remo
 
 Pro Tip: Using tools like [code-server](https://coder.com/docs/code-server/latest) you can even setup a VS Code coding environment hosted on your raspberry pi and code through a web browser on your tablet or smartphone! 
 
-![clock](images/clock.HEIC)
+![clock](images/image1.jpg)
 
 ## Part E.
 ### Modify the barebones clock to make it your own
@@ -196,7 +196,7 @@ Can you make time interactive? You can look in `screen_test.py` for examples for
 
 Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www.billverplank.com/IxDSketchBook.pdf)!
 
-![Verplank](images/verplank.jpg)
+![Verplank](images/image1.jpg)
 
 **We strongly discourage and will reject the results of literal digital or analog clock display.**
 
