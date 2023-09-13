@@ -1,3 +1,29 @@
+ if not buttonA.value:
+        display_image = image1.copy()
+        draw_on_image = ImageDraw.Draw(display_image)
+        draw_on_image.text((50, 50), current_weekday, font=font, fill="#FFFFFF")        
+        # Display the modified images with the time on the screen
+        disp.image(display_image, rotation)
+        continue       
+
+    elif not buttonB.value:
+        display_image = image2.copy()
+        draw_on_image = ImageDraw.Draw(display_image)
+        draw_on_image.text((40, 10), current_date, font=font, fill="#FFFFFF")
+        draw_on_image.text((40, 35), current_hours, font=font, fill="#FFFFFF")
+        draw_on_image.text((40, 60), current_minutes, font=font, fill="#FFFFFF")
+        draw_on_image.text((40, 85), current_seconds, font=font, fill="#FFFFFF")
+    
+        # Display the modified images with the time on the screen
+        disp.image(display_image, rotation)
+        continue
+
+    else:
+        display_image = pika.copy()
+        draw_on_image = ImageDraw.Draw(display_image)
+        disp.image(display_image, rotation)
+        continue
+
 
 
 
