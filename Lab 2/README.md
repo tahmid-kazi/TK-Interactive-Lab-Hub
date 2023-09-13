@@ -1,5 +1,5 @@
 # Interactive Prototyping: The Clock of Pi
-**NAMES OF COLLABORATORS HERE**
+**NAMES OF COLLABORATORS HERE**: 
 NONE which is why this took so long
 
 Does it feel like time is moving strangely during this semester?
