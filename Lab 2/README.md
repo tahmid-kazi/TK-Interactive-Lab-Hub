@@ -238,6 +238,8 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 2. Look at and give feedback on the Part G. for at least 2 other people in the class (and get 2 people to comment on your Part G!)
 
+
+
 # Lab 2 Part 2
 
 Pull Interactive Lab Hub updates to your repo.
@@ -247,5 +249,47 @@ Modify the code from last week's lab to make a new visual interface for your new
 As always, make sure you document contributions and ideas from others explicitly in your writeup.
 
 You are permitted (but not required) to work in groups and share a turn in; you are expected to make equal contribution on any group work you do, and N people's group project should look like N times the work of a single person's lab. What each person did should be explicitly documented. Make sure the page for the group turn in is linked to your Interactive Lab Hub page. 
+
+
+# Lab 2 Part 2 - Timing Hugs
+### Collaborators:
+- Yifan Zhou - yz2889 
+- Tingrui Zhang - tz428
+- Tahmid Kazi - tk596
+
+![image](img2/plush-cover.png)
+
+### Description:
+The device we are prototyping is a "clock" integrated into a plush. Instead of displaying time like a normal clock, the device will display the time elapsed since last time it is being picked up and hugged. The idea of creating this device is to slow people down from their busy schedule, take a break by attending to the plush. 
+
+We designed the display interface to match the plush, and carefully crafted the fonts and layout so relevant information is immediately visible. The interface also keeps track of total number of hugs. 
+
+When triggered, the display will show a beautiful flakes animation to celebrate the hugging.
+
+We believe that the accumulated time display is a good signifier for anyone passing by the plush. This sends a incentive for people to stop and interact with the device. 
+
+### How to Detect Hugs
+For this device we used the MPR121, a 12 channel capacitive touch sensor to sense hugs. The sensor communicates to Raspberry Pi using I2C interface. We extended the touch pads using aligator clips and aluminum strips with conductive adhesitve. So that when people hugs the plush, their hands will make contact with the aluminum strips and registered a touch input.
+
+### IoT Features
+For this Lab we also explored the IoT features of the device, whenever a hug is detected, the device will send the current timestamp and the number of hugs via a webhook, and any subscribed endpoint can receive a notification along with the json payload containing the data. This allows any interestd user to get notified when a hug happens, and through IFTTT's API we can implement postprocessing to this data as well. 
+
+### Design & Sketches
+![image](img2/sketch.jpg)
+![image](img2/interface.jpg)
+### Code
+The code for this Part 2 can be found here:
+[part2_clock.py](part2_clock.py)
+
+## Video Demonstration
+Here is the link to the video demo of the device.
+https://drive.google.com/file/d/1PJoUiBoTrP0wHdMte6KMVkDekpOuD5jn/view?usp=share_link
+
+
+## Work Divided
+- Tahmid worked on the design sketch and the integration of IoT functionality via IFTTT webhooks
+- Tingrui designed the clock interface and coded the animation effects
+- Yifan implemented the main program logic and handles the MPR121 touch sensor activaton sequence. 
+
 
 
