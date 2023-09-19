@@ -238,7 +238,8 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 2. Look at and give feedback on the Part G. for at least 2 other people in the class (and get 2 people to comment on your Part G!)
 
-
+## Part 1 Feedback
+The responsiveness of the button and the intuitive layout of the clock was a welcome idea. Having pikachu as your home screen was a plus!
 
 # Lab 2 Part 2
 
