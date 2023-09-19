@@ -257,7 +257,7 @@ You are permitted (but not required) to work in groups and share a turn in; you 
 - Tingrui Zhang - tz428
 - Tahmid Kazi - tk596
 
-![image](img2/plush-cover.png)
+![image](plush-cover.png)
 
 ### Description:
 The device we are prototyping is a "clock" integrated into a plush. Instead of displaying time like a normal clock, the device will display the time elapsed since last time it is being picked up and hugged. The idea of creating this device is to slow people down from their busy schedule, take a break by attending to the plush. 
@@ -275,8 +275,8 @@ For this device we used the MPR121, a 12 channel capacitive touch sensor to sens
 For this Lab we also explored the IoT features of the device, whenever a hug is detected, the device will send the current timestamp and the number of hugs via a webhook, and any subscribed endpoint can receive a notification along with the json payload containing the data. This allows any interestd user to get notified when a hug happens, and through IFTTT's API we can implement postprocessing to this data as well. 
 
 ### Design & Sketches
-![image](img2/sketch.jpg)
-![image](img2/interface.jpg)
+![image](sketch.jpg)
+![image](interface.jpg)
 ### Code
 The code for this Part 2 can be found here:
 [part2_clock.py](part2_clock.py)
