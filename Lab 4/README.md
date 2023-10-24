@@ -258,7 +258,7 @@ Think about how you want to present the information about what your sensor is se
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
 
 Build a cardboard prototype of your design.
-![img1](img1.JPG)
+![img1](img1.jpg)
 
 **\*\*\*Document your rough prototype.\*\*\***
 ![img2](img2.JPG)
