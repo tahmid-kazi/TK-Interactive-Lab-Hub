@@ -259,10 +259,11 @@ Think about how you want to present the information about what your sensor is se
 
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
 
-
+We picked the one where the display was mounted on the raspberry pi (in the guitar sketch, the very first one)
 
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
 
+since we needed the screen to be close to the speaker and raspberry pi, in order to display the musical notes being outputted from the digital guitar, we picked the screen that was mounted on the raspberry pi
 
 Build a cardboard prototype of your design.
 ![img1](img1.jpg)
