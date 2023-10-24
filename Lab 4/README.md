@@ -203,7 +203,7 @@ Usually, sensors need to be positioned in specific locations or orientations to 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
 **\*\*\*Pick one of these designs to prototype.\*\*\***
-
+We picked the guitar synthesizer
 
 ### Part D
 ### Physical considerations for displaying information and housing parts
@@ -247,17 +247,25 @@ Here is an example:
 Think about how you want to present the information about what your sensor is sensing! Design a paper display for your project that communicates the state of the Pi and a sensor. Ideally you should design it so that you can slide the Pi out to work on the circuit or programming, and then slide it back in and reattach a few wires to be back in operation.
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
+![storyboards](all_storyboards.jpeg)
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
 
+
+
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
 
 Build a cardboard prototype of your design.
-
+![img1](img1.JPG)
 
 **\*\*\*Document your rough prototype.\*\*\***
+![img2](img2.JPG)
+![img3](img3.JPG)
+![img4](img4.JPG)
+![img5](img5.JPG)
+![img6](img6.JPG)
 
 
 LAB PART 2
