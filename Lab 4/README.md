@@ -281,9 +281,13 @@ LAB PART 2
 
 Following exploration and reflection from Part 1, complete the "looks like," "works like" and "acts like" prototypes for your design, reiterated below.
 
-"looks like," "works like" and "acts like"
-
-
+For Part 1 and 2 of the Lab, we built the guitar synthesizer using cardboard, the PiTFT display to show the real time note, copper conductive pads as touch sensor arrays and the Rasberry Pi with speakers and headphones out to produce the sound.
+"Looks like": shows how the device should look, feel, sit, weigh, etc.
+- for our device, it looks and feels like a mini ukulele (that's how we made the cu
+"Works like": shows what the device can do.
+- the device works like a digital guitar in the sense that it takes capacitive touch input and produces digital sounds.
+"Acts like": shows how a person would interact with the device.
+- for all intents and purposes, the person holds and interacts with it as someone would with a guitar or ukulele.
 
 ### Part E (Optional)
 ### Servo Control with Joystick
