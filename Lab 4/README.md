@@ -1,7 +1,10 @@
 # Ph-UI!!!
 
 **NAMES OF COLLABORATORS HERE**
-
+1. Siddharth Kothari - sk2793
+2. Yifan Zhou - yz2889
+3. Tahmid Kazi - tk596
+4. Omar Mohamed - om84
 
 For lab this week, we focus both on sensing, to bring in new modes of input into your devices, as well as prototyping the physical look and feel of the device. You will think about the physical form the device needs to perform the sensing as well as present the display or feedback about what was sensed. 
 
@@ -194,6 +197,8 @@ Usually, sensors need to be positioned in specific locations or orientations to 
 
 
 **\*\*\*Draw 5 sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
+
+https://raw.githubusercontent.com/tahmid-kazi/TK-Interactive-Lab-Hub/Fall2023/Lab%204/all_storyboards.jpeg
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
