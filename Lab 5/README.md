@@ -177,13 +177,31 @@ For example:
 
 Now that you have experimented with one or more of these sense-making systems **characterize their behavior**.
 During the lecture, we mentioned questions to help characterize a material:
+
 * What can you use X for?
+
+The premise behind our idea was to create a portable object detection system for our backpack so that we could keep track of all our loose items when on the go. Instead of using something like Apple AirTags (where you have to attack one tracker for every object) we though of using something more efficient and streamlined to keep track of our belongings.
 * What is a good environment for X?
+
+Backpack detector is meant to be used in a portable setting (i.e. battery powered) where you have a lot of small personal items that need to be tracked (in case you lose any). This assumes you are outside or indoors but with good enough lighting for the camera to be able to detect small objects.
+
 * What is a bad environment for X?
+
+Since this is meant to be a portable object detector that depends on a camera, low light situations are going to be bad for the device to properly identify the small items that need tracking.
+
 * When will X break?
+
+If the backpack detector runs out of battery or is in a low light situation, the detector will not be well equiped enough to do its job. And in those scenarios, the confirmation provided by the backpack detector (as in whether the object/personal item is in your bag or not) should not be trusted.
+
 * When it breaks how will X break?
+
+In the case of this portable camera-based device, the loss of battery power will cause the device to shut down. Plus since this device can also be used when the user is on the move, if  there is any physical damage done to this hardware device (like a sharp ding or accidentally falling on the pavement) it will cause the  product to break.
+
 * What are other properties/behaviors of X?
+No other outstanding features can be commented on. The device was built with simplicity and portability in mind 
+
 * How does X feel?
+The backpack detector feels like a portable battery powered raspberry pi handheld device. Think like a thicker phone
 
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
 
@@ -192,6 +210,5 @@ During the lecture, we mentioned questions to help characterize a material:
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
 
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
-
 
 [![Demo](https://img.youtube.com/vi/hYgCenmrJg4/0.jpg)](https://www.youtube.com/watch?hYgCenmrJg4)
