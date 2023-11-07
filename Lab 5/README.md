@@ -198,9 +198,11 @@ If the backpack detector runs out of battery or is in a low light situation, the
 In the case of this portable camera-based device, the loss of battery power will cause the device to shut down. Plus since this device can also be used when the user is on the move, if  there is any physical damage done to this hardware device (like a sharp ding or accidentally falling on the pavement) it will cause the  product to break.
 
 * What are other properties/behaviors of X?
+
 No other outstanding features can be commented on. The device was built with simplicity and portability in mind 
 
 * How does X feel?
+
 The backpack detector feels like a portable battery powered raspberry pi handheld device. Think like a thicker phone
 
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
