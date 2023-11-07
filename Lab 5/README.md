@@ -1,7 +1,10 @@
 # Observant Systems
 
 **NAMES OF COLLABORATORS HERE**
-
+1. Siddharth Kothari - sk2793
+2. Yifan Zhou - yz2889
+3. Tahmid Kazi - tk596
+4. Omar Mohamed - om84
 
 For lab this week, we focus on creating interactive systems that can detect and respond to events or stimuli in the environment of the Pi, like the Boat Detector we mentioned in lecture. 
 Your **observant device** could, for example, count items, find objects, recognize an event or continuously monitor a room.
