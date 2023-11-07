@@ -228,7 +228,8 @@ The backpack detector feels like a portable battery powered raspberry pi handhel
 
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
 
-[![Demo](https://img.youtube.com/vi/WtAlBrhbWQM/0.jpg)](https://www.youtube.com/watch?WtAlBrhbWQM)
+[![Demo](https://img.youtube.com/vi/WtAlBrhbWQM/0.jpg)](https://www.youtube.com/watch?v=WtAlBrhbWQM)
+
 
 ### Part 2.
 
@@ -236,4 +237,4 @@ Following exploration and reflection from Part 1, finish building your interacti
 
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
 
-[![Demo](https://img.youtube.com/vi/hYgCenmrJg4/0.jpg)](https://www.youtube.com/watch?hYgCenmrJg4)
+[![Demo](https://img.youtube.com/vi/hYgCenmrJg4/0.jpg)](https://www.youtube.com/watch?v=hYgCenmrJg4)
