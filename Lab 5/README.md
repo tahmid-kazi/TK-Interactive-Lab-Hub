@@ -178,4 +178,4 @@ During the lecture, we mentioned questions to help characterize a material:
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
 
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
-![Here is our video](https://youtu.be/hYgCenmrJg4)
+[![Demo](https://img.youtube.com/vi/hYgCenmrJg4/0.jpg)](https://www.youtube.com/watch?hYgCenmrJg4)
