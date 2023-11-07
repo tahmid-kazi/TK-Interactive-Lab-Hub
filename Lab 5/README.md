@@ -148,11 +148,11 @@ In an earlier version of this class students experimented with foundational comp
 
 We used the teachable machines to train our model to detect the common objects that we put in our backpacks. The screenshots of our custom classifier are included below:
 
-![img1](img (1).jpg)
+![img (1)](img (1).jpg)
 
-![img2](img (2).jpg)
+![img (2)](img (2).jpg)
 
-![img3](img (3).jpg)
+![img (3)](img (3).jpg)
 
 
 
