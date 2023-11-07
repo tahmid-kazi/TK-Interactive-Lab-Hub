@@ -124,8 +124,7 @@ Next train your own model. Visit [TeachableMachines](https://teachablemachine.wi
 
 Include screenshots of your use of Teachable Machines, and write how you might use this to create your own classifier. Include what different affordances this method brings, compared to the OpenCV or MediaPipe options.
 
-
-
+Using the Teachable Machines ML classifier trainer is an order of magnitude simpler than using OpenCV (which has a nightmare of setup issues with no straightforward tutorial or interface) or the MediaPipe option. Our usage of the Teachable machines software is shown below when we train it for our backpack classifier.
 
 
 #### (Optional) Legacy audio and computer vision observation approaches
@@ -162,15 +161,37 @@ We used the teachable machines to train our model to detect the common objects t
 Now flight test your interactive prototype and **note down your observations**:
 For example:
 1. When does it what it is supposed to do?
+
+When in good  lighting condition, the backpack detector has no trouble detecting the small itesm
+
 1. When does it fail?
+
+when in dark lighting conditions, the camera fails to pick up the objects.
+
 1. When it fails, why does it fail?
+
+It fails due to bad physical enviroment conditions
+
 1. Based on the behavior you have seen, what other scenarios could cause problems?
+
+situations where the objects are moving fast (resulting in blurry imagery) so the camera cannot pick up objects quickly.
 
 **\*\*\*Think about someone using the system. Describe how you think this will work.\*\*\***
 1. Are they aware of the uncertainties in the system?
+
+In general, most people are aware of some of the high level limitations of cameras. Since this device is an application that uses a camera, the limitations of the hardware will inform the limitations of the classifier.
+
 1. How bad would they be impacted by a miss classification?
+
+The inability to know if their small personal item is with them or not (the cost of that item if it got lost is the cost of a miss classification)
+
 1. How could change your interactive system to address this?
+
+We could incorporate multiple cameras to better capture motion in portable settings or we could incorporate the usage of GPS trackers or Weight sensors (to detect when the object is in the bag).
+
 1. Are there optimizations you can try to do on your sense-making algorithm.
+
+Not that we can think of at this time.
 
 ### Part D
 ### Characterize your own Observant system
